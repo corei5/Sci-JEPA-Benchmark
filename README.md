@@ -1,1 +1,0 @@
-# Sci-JEPA-Benchmark
